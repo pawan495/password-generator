@@ -11,4 +11,4 @@
 https://pawan495.github.io/password-generator/
 
  # Screenshot: 
- .assets/css/pic1
+ .assets/css/pic1.png
